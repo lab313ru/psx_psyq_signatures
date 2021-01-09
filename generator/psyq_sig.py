@@ -11,6 +11,7 @@ FUNC_SIG_R = re.compile(r'^((?:[0-9A-F?]{2} )+)$')
 def main(path):
     objs = list()
     obj = None
+    added = False
 
     with open(path, 'rb') as f:
         lines = f.read().replace(b'\r\n', b'\n').split(b'\n')
@@ -31,16 +32,20 @@ def main(path):
                     'sig': '',
                     'labels': list()
                 }
+                added = False
 
                 i += 1
             else:
-                added = False
                 while i < len(lines):
                     line = lines[i].decode()
 
+                    if line == '':
+                        i += 1
+                        continue
+
                     m_func_name = FUNC_NAME_R.match(line)
 
-                    if m_func_name is not None and obj is not None:
+                    if m_func_name is not None:
                         obj['labels'].append({
                             'name': m_func_name.group(1),
                             'offset': len(obj['sig']) // 3  # 'HH '
@@ -50,16 +55,17 @@ def main(path):
                     else:
                         m_func_sig = FUNC_SIG_R.match(line)
 
-                        if m_func_sig is not None and obj is not None:
+                        if m_func_sig is not None:
                             obj['sig'] += m_func_sig.group(1)
                             i += 1
-                        elif obj is not None:
+                        else:
                             objs.append(obj)
                             added = True
                             break
 
-                if not added and obj is not None:
+                if not added:
                     objs.append(obj)
+                    added = True
 
     return objs
 
