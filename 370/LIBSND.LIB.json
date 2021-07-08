@@ -1451,6 +1451,20 @@
                 "name": "loc_9C",
                 "offset": 156
             }
+        ],
+        "xbss": [
+            {
+                "name": "_snd_seq_s_max",
+                "size": 2
+            },
+            {
+                "name": "_snd_seq_t_max",
+                "size": 2
+            },
+            {
+                "name": "_snd_ev_flag",
+                "size": 4
+            }
         ]
     },
     {
@@ -3613,6 +3627,44 @@
                 "name": "loc_2FC",
                 "offset": 764
             }
+        ],
+        "xbss": [
+            {
+                "name": "_svm_orev1",
+                "size": 2
+            },
+            {
+                "name": "_svm_orev2",
+                "size": 2
+            },
+            {
+                "name": "_svm_voice",
+                "size": 4
+            },
+            {
+                "name": "_autopan",
+                "size": 4
+            },
+            {
+                "name": "_autovol",
+                "size": 4
+            },
+            {
+                "name": "_svm_envx_ptr",
+                "size": 4
+            },
+            {
+                "name": "_svm_envx_hist",
+                "size": 64
+            },
+            {
+                "name": "_svm_okof1",
+                "size": 2
+            },
+            {
+                "name": "_svm_okof2",
+                "size": 2
+            }
         ]
     },
     {
@@ -4650,6 +4702,51 @@
             {
                 "name": "SsVabTransCompleted",
                 "offset": 0
+            }
+        ]
+    },
+    {
+        "name": "VM_G.OBJ",
+        "xbss": [
+            {
+                "name": "_svm_cur",
+                "size": 32
+            },
+            {
+                "name": "_svm_auto_kof_mode",
+                "size": 1
+            },
+            {
+                "name": "_svm_vab_pg",
+                "size": 64
+            },
+            {
+                "name": "_svm_vab_vh",
+                "size": 64
+            },
+            {
+                "name": "_svm_damper",
+                "size": 2
+            },
+            {
+                "name": "_svm_vab_tn",
+                "size": 64
+            },
+            {
+                "name": "_svm_vab_total",
+                "size": 64
+            },
+            {
+                "name": "_svm_vab_start",
+                "size": 64
+            },
+            {
+                "name": "_svm_pg",
+                "size": 4
+            },
+            {
+                "name": "_svm_vh",
+                "size": 4
             }
         ]
     }
