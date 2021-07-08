@@ -403,6 +403,12 @@
                 "name": "text_478",
                 "offset": 1144
             }
+        ],
+        "xbss": [
+            {
+                "name": "_padGunPosRecv",
+                "size": 4
+            }
         ]
     },
     {
@@ -2186,6 +2192,16 @@
             {
                 "name": "text_260",
                 "offset": 608
+            }
+        ],
+        "xbss": [
+            {
+                "name": "_padGunPosHbuf",
+                "size": 96
+            },
+            {
+                "name": "_padGunPosVbuf",
+                "size": 96
             }
         ]
     }

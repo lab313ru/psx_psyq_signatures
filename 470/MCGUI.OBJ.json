@@ -2475,6 +2475,20 @@
                 "name": "loc_7FD0",
                 "offset": 32720
             }
+        ],
+        "xbss": [
+            {
+                "name": "sUser",
+                "size": 32
+            },
+            {
+                "name": "side",
+                "size": 4
+            },
+            {
+                "name": "ot",
+                "size": 128
+            }
         ]
     }
 ]
