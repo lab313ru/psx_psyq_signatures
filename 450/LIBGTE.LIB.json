@@ -7143,6 +7143,28 @@
                 "name": "loc_D8",
                 "offset": 216
             }
+        ],
+        "xbss": [
+            {
+                "name": "_tmp_evbf",
+                "size": 2
+            },
+            {
+                "name": "CLIPNearz",
+                "size": 4
+            },
+            {
+                "name": "CLIPFarz",
+                "size": 4
+            },
+            {
+                "name": "CLIPHdkx",
+                "size": 4
+            },
+            {
+                "name": "CLIPHdky",
+                "size": 4
+            }
         ]
     },
     {

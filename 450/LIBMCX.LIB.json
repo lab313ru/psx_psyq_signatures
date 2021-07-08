@@ -1543,6 +1543,20 @@
                 "name": "text_2AF8",
                 "offset": 11000
             }
+        ],
+        "xbss": [
+            {
+                "name": "_mcxTxBuf",
+                "size": 150
+            },
+            {
+                "name": "_mcxRxBuf",
+                "size": 150
+            },
+            {
+                "name": "_mcxFuncNo",
+                "size": 4
+            }
         ]
     },
     {

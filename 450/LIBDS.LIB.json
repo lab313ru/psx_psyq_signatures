@@ -2003,6 +2003,12 @@
                 "name": "text_274",
                 "offset": 628
             }
+        ],
+        "xbss": [
+            {
+                "name": "GD_retry",
+                "size": 4
+            }
         ]
     },
     {

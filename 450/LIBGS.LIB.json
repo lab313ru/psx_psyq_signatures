@@ -1159,6 +1159,36 @@
                 "name": "text_520",
                 "offset": 1312
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
+            }
         ]
     },
     {
@@ -1373,6 +1403,12 @@
                 "name": "print_vector",
                 "offset": 908
             }
+        ],
+        "xbss": [
+            {
+                "name": "DSTACK",
+                "size": 128
+            }
         ]
     },
     {
@@ -1420,6 +1456,24 @@
             {
                 "name": "GsInit3D",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
             }
         ]
     },
@@ -1562,6 +1616,16 @@
             {
                 "name": "text_51C",
                 "offset": 1308
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1854,6 +1918,24 @@
             {
                 "name": "text_C0",
                 "offset": 192
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX_ORG",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -10776,6 +10858,31 @@
             {
                 "name": "loc_1B0",
                 "offset": 432
+            }
+        ]
+    },
+    {
+        "name": "GLOBAL.OBJ",
+        "xbss": [
+            {
+                "name": "GsOUT_PACKET_P",
+                "size": 4
+            },
+            {
+                "name": "GsMATE_C",
+                "size": 4
+            },
+            {
+                "name": "GsLMODE",
+                "size": 4
+            },
+            {
+                "name": "GsLIGNR",
+                "size": 4
+            },
+            {
+                "name": "GsDISPON",
+                "size": 4
             }
         ]
     }
