@@ -801,6 +801,44 @@
                 "name": "SsQuit",
                 "offset": 1720
             }
+        ],
+        "xbss": [
+            {
+                "name": "_snd_openflag",
+                "size": 8
+            },
+            {
+                "name": "_snd_seq_tick_mode",
+                "size": 8
+            },
+            {
+                "name": "_snd_seq_no_tick",
+                "size": 8
+            },
+            {
+                "name": "MarkCallback",
+                "size": 2048
+            },
+            {
+                "name": "VBLANK_MINUS",
+                "size": 8
+            },
+            {
+                "name": "_ss_score",
+                "size": 128
+            },
+            {
+                "name": "_snd_seq_s_max",
+                "size": 8
+            },
+            {
+                "name": "_snd_seq_t_max",
+                "size": 8
+            },
+            {
+                "name": "_snd_ev_flag",
+                "size": 8
+            }
         ]
     },
     {
@@ -2919,6 +2957,32 @@
                 "name": "loc_37E8",
                 "offset": 14312
             }
+        ],
+        "xbss": [
+            {
+                "name": "_svm_orev1",
+                "size": 8
+            },
+            {
+                "name": "_svm_orev2",
+                "size": 8
+            },
+            {
+                "name": "_svm_okof1",
+                "size": 8
+            },
+            {
+                "name": "_svm_okof2",
+                "size": 8
+            },
+            {
+                "name": "_svm_okon1",
+                "size": 8
+            },
+            {
+                "name": "_svm_okon2",
+                "size": 8
+            }
         ]
     },
     {
@@ -3470,6 +3534,91 @@
             {
                 "name": "loc_8C",
                 "offset": 140
+            }
+        ]
+    },
+    {
+        "name": "VM_G.OBJ",
+        "xbss": [
+            {
+                "name": "spuVmMaxVoice",
+                "size": 8
+            },
+            {
+                "name": "_svm_rattr",
+                "size": 24
+            },
+            {
+                "name": "_svm_vcf",
+                "size": 8
+            },
+            {
+                "name": "_svm_vab_used",
+                "size": 16
+            },
+            {
+                "name": "_svm_cur",
+                "size": 32
+            },
+            {
+                "name": "_svm_auto_kof_mode",
+                "size": 8
+            },
+            {
+                "name": "_svm_vab_pg",
+                "size": 64
+            },
+            {
+                "name": "_svm_vab_vh",
+                "size": 64
+            },
+            {
+                "name": "_svm_damper",
+                "size": 8
+            },
+            {
+                "name": "_svm_vab_tn",
+                "size": 64
+            },
+            {
+                "name": "_svm_stereo_mono",
+                "size": 8
+            },
+            {
+                "name": "_svm_vab_total",
+                "size": 64
+            },
+            {
+                "name": "_svm_vab_count",
+                "size": 8
+            },
+            {
+                "name": "_svm_vab_start",
+                "size": 64
+            },
+            {
+                "name": "kMaxPrograms",
+                "size": 8
+            },
+            {
+                "name": "_svm_brr_start_addr",
+                "size": 64
+            },
+            {
+                "name": "_svm_pg",
+                "size": 8
+            },
+            {
+                "name": "_svm_vg",
+                "size": 8
+            },
+            {
+                "name": "_svm_vh",
+                "size": 8
+            },
+            {
+                "name": "_svm_tn",
+                "size": 8
             }
         ]
     }

@@ -941,6 +941,60 @@
                 "name": "loc_1B0",
                 "offset": 432
             }
+        ],
+        "xbss": [
+            {
+                "name": "_spu_keystat",
+                "size": 8
+            },
+            {
+                "name": "_spu_inTransfer",
+                "size": 8
+            },
+            {
+                "name": "_spu_keyoff_bit",
+                "size": 8
+            },
+            {
+                "name": "_spu_trans_mode",
+                "size": 8
+            },
+            {
+                "name": "_spu_rev_flag",
+                "size": 8
+            },
+            {
+                "name": "_spu_rev_attr",
+                "size": 24
+            },
+            {
+                "name": "_spu_keyevent_time",
+                "size": 8
+            },
+            {
+                "name": "_spu_voice_centerNote",
+                "size": 48
+            },
+            {
+                "name": "_spu_keyon_bit",
+                "size": 8
+            },
+            {
+                "name": "_spu_fd",
+                "size": 8
+            },
+            {
+                "name": "_spu_EVdma",
+                "size": 8
+            },
+            {
+                "name": "_spu_rev_offsetaddr",
+                "size": 8
+            },
+            {
+                "name": "_spu_rev_reserve_wa",
+                "size": 8
+            }
         ]
     },
     {
@@ -2816,6 +2870,12 @@
             {
                 "name": "loc_388",
                 "offset": 904
+            }
+        ],
+        "xbss": [
+            {
+                "name": "SpuCommonError",
+                "size": 8
             }
         ]
     },

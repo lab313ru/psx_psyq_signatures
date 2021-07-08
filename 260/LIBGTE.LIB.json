@@ -3873,6 +3873,36 @@
                 "name": "loc_D0",
                 "offset": 208
             }
+        ],
+        "xbss": [
+            {
+                "name": "CLIPNearz",
+                "size": 8
+            },
+            {
+                "name": "_tmp_evbf",
+                "size": 704
+            },
+            {
+                "name": "CLIPHdkx",
+                "size": 8
+            },
+            {
+                "name": "CLIPKdhx",
+                "size": 8
+            },
+            {
+                "name": "CLIPHdky",
+                "size": 8
+            },
+            {
+                "name": "CLIPKdhy",
+                "size": 8
+            },
+            {
+                "name": "CLIPFarz",
+                "size": 8
+            }
         ]
     },
     {

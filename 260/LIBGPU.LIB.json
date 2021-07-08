@@ -2471,6 +2471,16 @@
                 "name": "text_E64",
                 "offset": 3684
             }
+        ],
+        "xbss": [
+            {
+                "name": "txyuv",
+                "size": 4096
+            },
+            {
+                "name": "KanjiFont",
+                "size": 208
+            }
         ]
     },
     {

@@ -191,6 +191,16 @@
                 "name": "text_5F8",
                 "offset": 1528
             }
+        ],
+        "xbss": [
+            {
+                "name": "SearchPoint",
+                "size": 8
+            },
+            {
+                "name": "TopAllocArea",
+                "size": 8
+            }
         ]
     }
 ]
