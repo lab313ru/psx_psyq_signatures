@@ -251,6 +251,12 @@
                 "name": "text_930",
                 "offset": 2352
             }
+        ],
+        "xbss": [
+            {
+                "name": "siobuf",
+                "size": 16
+            }
         ]
     },
     {
@@ -370,6 +376,20 @@
             {
                 "name": "text_250",
                 "offset": 592
+            }
+        ],
+        "xbss": [
+            {
+                "name": "cntl",
+                "size": 4
+            },
+            {
+                "name": "mode",
+                "size": 4
+            },
+            {
+                "name": "baud",
+                "size": 4
             }
         ]
     },

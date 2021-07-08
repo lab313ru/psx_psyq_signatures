@@ -123,6 +123,12 @@
                 "name": "loc_18C",
                 "offset": 396
             }
+        ],
+        "xbss": [
+            {
+                "name": "USTACK",
+                "size": 128
+            }
         ]
     },
     {

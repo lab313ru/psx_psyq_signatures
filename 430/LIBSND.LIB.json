@@ -1445,6 +1445,16 @@
                 "name": "loc_9C",
                 "offset": 156
             }
+        ],
+        "xbss": [
+            {
+                "name": "_SsMarkCallback",
+                "size": 2048
+            },
+            {
+                "name": "_snd_seq_t_max",
+                "size": 2
+            }
         ]
     },
     {
@@ -3859,6 +3869,48 @@
                 "name": "loc_37C",
                 "offset": 892
             }
+        ],
+        "xbss": [
+            {
+                "name": "_svm_envx_ptr",
+                "size": 4
+            },
+            {
+                "name": "_svm_envx_hist",
+                "size": 64
+            },
+            {
+                "name": "_svm_voice",
+                "size": 1296
+            },
+            {
+                "name": "_autopan",
+                "size": 4
+            },
+            {
+                "name": "_svm_sreg_dirty",
+                "size": 24
+            },
+            {
+                "name": "_svm_sreg_buf",
+                "size": 384
+            },
+            {
+                "name": "_svm_orev2",
+                "size": 2
+            },
+            {
+                "name": "_svm_orev1",
+                "size": 2
+            },
+            {
+                "name": "_svm_onos2",
+                "size": 2
+            },
+            {
+                "name": "_svm_onos1",
+                "size": 2
+            }
         ]
     },
     {
@@ -5146,6 +5198,59 @@
             {
                 "name": "loc_51C",
                 "offset": 1308
+            }
+        ]
+    },
+    {
+        "name": "VM_G.OBJ",
+        "xbss": [
+            {
+                "name": "_svm_stereo_mono",
+                "size": 2
+            },
+            {
+                "name": "_svm_rattr",
+                "size": 20
+            },
+            {
+                "name": "_svm_vab_used",
+                "size": 16
+            },
+            {
+                "name": "_SsVmMaxVoice",
+                "size": 1
+            },
+            {
+                "name": "_svm_vab_count",
+                "size": 2
+            },
+            {
+                "name": "kMaxPrograms",
+                "size": 2
+            },
+            {
+                "name": "_svm_cur",
+                "size": 1
+            },
+            {
+                "name": "_svm_vab_total",
+                "size": 64
+            },
+            {
+                "name": "_svm_vh",
+                "size": 4
+            },
+            {
+                "name": "_svm_pg",
+                "size": 4
+            },
+            {
+                "name": "_svm_tn",
+                "size": 4
+            },
+            {
+                "name": "_svm_vg",
+                "size": 4
             }
         ]
     }
