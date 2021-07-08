@@ -3591,7 +3591,7 @@
         "xbss": [
             {
                 "name": "_tmp_evbf",
-                "size": 2
+                "size": 704
             },
             {
                 "name": "CLIPNearz",
@@ -3607,6 +3607,14 @@
             },
             {
                 "name": "CLIPHdky",
+                "size": 4
+            },
+            {
+                "name": "CLIPKdhx",
+                "size": 4
+            },
+            {
+                "name": "CLIPKdhy",
                 "size": 4
             }
         ]

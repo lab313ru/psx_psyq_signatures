@@ -2467,11 +2467,31 @@
             },
             {
                 "name": "sDraw",
-                "size": 19
+                "size": 5048
             },
             {
                 "name": "disp",
                 "size": 40
+            },
+            {
+                "name": "Pad",
+                "size": 40
+            },
+            {
+                "name": "side",
+                "size": 4
+            },
+            {
+                "name": "ot",
+                "size": 128
+            },
+            {
+                "name": "draw",
+                "size": 184
+            },
+            {
+                "name": "gMENU",
+                "size": 720
             }
         ]
     }

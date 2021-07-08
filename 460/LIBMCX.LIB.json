@@ -1370,6 +1370,18 @@
             {
                 "name": "_mcxFlag",
                 "size": 4
+            },
+            {
+                "name": "_mcxTxBuf",
+                "size": 150
+            },
+            {
+                "name": "_mcxFuncGetTx",
+                "size": 4
+            },
+            {
+                "name": "_mcxRxBuf",
+                "size": 150
             }
         ]
     },
