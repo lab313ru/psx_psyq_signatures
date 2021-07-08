@@ -1917,6 +1917,16 @@
                 "name": "text_A8",
                 "offset": 168
             }
+        ],
+        "xbss": [
+            {
+                "name": "_waitTime",
+                "size": 4
+            },
+            {
+                "name": "_startTime",
+                "size": 4
+            }
         ]
     },
     {
