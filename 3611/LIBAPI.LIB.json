@@ -927,6 +927,24 @@
                 "name": "InitHeap2",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "_AllocRestBlockTop",
+                "size": 4
+            },
+            {
+                "name": "_max_heap",
+                "size": 4
+            },
+            {
+                "name": "_Candidate",
+                "size": 4
+            },
+            {
+                "name": "_TopAllocArea",
+                "size": 4
+            }
         ]
     },
     {
