@@ -396,6 +396,22 @@
             {
                 "name": "bs_curt",
                 "size": 4
+            },
+            {
+                "name": "dc_y",
+                "size": 4
+            },
+            {
+                "name": "dc_type",
+                "size": 4
+            },
+            {
+                "name": "dc_cb",
+                "size": 4
+            },
+            {
+                "name": "dc_cr",
+                "size": 4
             }
         ]
     },

@@ -15,6 +15,12 @@
                 "name": "PadStop",
                 "offset": 144
             }
+        ],
+        "xbss": [
+            {
+                "name": "PadIdentifier",
+                "size": 4
+            }
         ]
     },
     {

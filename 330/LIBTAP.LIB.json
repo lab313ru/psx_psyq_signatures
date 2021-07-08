@@ -407,6 +407,12 @@
                 "name": "_StopPAD",
                 "offset": 4764
             }
+        ],
+        "xbss": [
+            {
+                "name": "SysClearPAD",
+                "size": 4
+            }
         ]
     }
 ]
