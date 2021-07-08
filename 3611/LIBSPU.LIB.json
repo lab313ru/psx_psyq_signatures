@@ -275,6 +275,12 @@
                 "name": "text_B8C",
                 "offset": 2956
             }
+        ],
+        "xbss": [
+            {
+                "name": "_spu_RQ",
+                "size": 20
+            }
         ]
     },
     {
