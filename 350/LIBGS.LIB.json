@@ -1099,7 +1099,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1116,6 +1116,18 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
             }
         ]
     },
@@ -1167,7 +1179,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "PSDGPU",
@@ -1183,6 +1195,22 @@
             },
             {
                 "name": "GsORGOFSY",
+                "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
                 "size": 2
             }
         ]
@@ -1211,7 +1239,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1228,6 +1256,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1271,7 +1319,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "PSDGPU",
@@ -1288,6 +1336,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1315,7 +1383,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1332,6 +1400,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1359,7 +1447,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1376,6 +1464,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1403,7 +1511,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1420,6 +1528,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1447,7 +1575,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1464,6 +1592,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1491,7 +1639,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1508,6 +1656,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1539,7 +1707,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1556,6 +1724,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1583,7 +1771,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1600,6 +1788,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1627,7 +1835,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1644,6 +1852,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1671,7 +1899,7 @@
             },
             {
                 "name": "GsDRAWENV",
-                "size": 5
+                "size": 92
             },
             {
                 "name": "GsDISPENV",
@@ -1688,6 +1916,26 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 4
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1772,6 +2020,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -1799,6 +2067,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -1836,6 +2124,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -1863,6 +2171,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -1900,6 +2228,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -1927,6 +2275,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2064,6 +2432,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2112,6 +2500,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2139,6 +2547,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2168,6 +2596,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2195,6 +2643,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2224,6 +2692,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2251,6 +2739,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2287,6 +2795,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2376,6 +2904,22 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2403,6 +2947,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2436,6 +3000,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2468,6 +3052,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2499,6 +3103,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2540,6 +3164,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2567,6 +3211,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2603,6 +3267,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2648,6 +3332,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2676,6 +3380,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2703,6 +3427,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2764,6 +3508,26 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -2799,6 +3563,26 @@
             },
             {
                 "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 4
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -2927,6 +3711,20 @@
                 "name": "loc_5A0",
                 "offset": 1440
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsLSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX_ORG",
+                "size": 32
+            }
         ]
     },
     {
@@ -2940,6 +3738,20 @@
             {
                 "name": "loc_100",
                 "offset": 256
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsLSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX_ORG",
+                "size": 32
             }
         ]
     },
@@ -2991,6 +3803,20 @@
                 "name": "loc_2A8",
                 "offset": 680
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsLSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX_ORG",
+                "size": 32
+            }
         ]
     },
     {
@@ -3040,6 +3866,20 @@
             {
                 "name": "loc_2A8",
                 "offset": 680
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsLSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX_ORG",
+                "size": 32
             }
         ]
     },
@@ -3091,6 +3931,20 @@
                 "name": "loc_2B0",
                 "offset": 688
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsLSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX_ORG",
+                "size": 32
+            }
         ]
     },
     {
@@ -3112,6 +3966,20 @@
             {
                 "name": "loc_108",
                 "offset": 264
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsLSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX_ORG",
+                "size": 32
             }
         ]
     },
@@ -3246,6 +4114,20 @@
             {
                 "name": "text_5F0",
                 "offset": 1520
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsLSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX_ORG",
+                "size": 32
             }
         ]
     },
@@ -4136,6 +5018,12 @@
             {
                 "name": "loc_11A4",
                 "offset": 4516
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsFCALL5",
+                "size": 280
             }
         ]
     },
@@ -5490,6 +6378,12 @@
             {
                 "name": "loc_7A8",
                 "offset": 1960
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsFCALL4",
+                "size": 280
             }
         ]
     },
@@ -10622,6 +11516,18 @@
             },
             {
                 "name": "GsNDIV",
+                "size": 4
+            },
+            {
+                "name": "GsLMODE",
+                "size": 4
+            },
+            {
+                "name": "GsOUT_PACKET_P",
+                "size": 4
+            },
+            {
+                "name": "GsMATE_C",
                 "size": 4
             }
         ]

@@ -48,6 +48,46 @@
             {
                 "name": "StRingSize",
                 "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -1183,6 +1223,12 @@
                 "name": "StCdInterrupt2",
                 "offset": 148
             }
+        ],
+        "xbss": [
+            {
+                "name": "StMode",
+                "size": 4
+            }
         ]
     },
     {
@@ -1452,6 +1498,46 @@
             {
                 "name": "StRingSize",
                 "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -1503,6 +1589,46 @@
             },
             {
                 "name": "StRingSize",
+                "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
                 "size": 4
             }
         ]
@@ -1572,6 +1698,46 @@
             {
                 "name": "StRingSize",
                 "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -1624,6 +1790,46 @@
             {
                 "name": "StRingSize",
                 "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -1675,6 +1881,46 @@
             },
             {
                 "name": "StRingSize",
+                "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
                 "size": 4
             }
         ]
@@ -1744,6 +1990,46 @@
             {
                 "name": "StRingSize",
                 "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -1803,6 +2089,46 @@
             },
             {
                 "name": "StRingSize",
+                "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
                 "size": 4
             }
         ]
@@ -1868,6 +2194,46 @@
             {
                 "name": "StRingSize",
                 "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -1919,6 +2285,46 @@
             },
             {
                 "name": "StRingSize",
+                "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
                 "size": 4
             }
         ]
@@ -2176,6 +2582,46 @@
             {
                 "name": "StRingSize",
                 "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -2232,6 +2678,46 @@
             {
                 "name": "StRingSize",
                 "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -2287,6 +2773,46 @@
             },
             {
                 "name": "StRingSize",
+                "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
                 "size": 4
             }
         ]
@@ -2347,6 +2873,46 @@
             },
             {
                 "name": "StRingSize",
+                "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
                 "size": 4
             }
         ]
@@ -2415,6 +2981,46 @@
             },
             {
                 "name": "StRingSize",
+                "size": 4
+            },
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
                 "size": 4
             }
         ]

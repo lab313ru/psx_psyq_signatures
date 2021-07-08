@@ -766,6 +766,10 @@
             {
                 "name": "txyuv",
                 "size": 4096
+            },
+            {
+                "name": "KanjiFont",
+                "size": 208
             }
         ]
     },
@@ -2238,6 +2242,12 @@
             {
                 "name": "loc_2D40",
                 "offset": 11584
+            }
+        ],
+        "xbss": [
+            {
+                "name": "_que",
+                "size": 6144
             }
         ]
     },

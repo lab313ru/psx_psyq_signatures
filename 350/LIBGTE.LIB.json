@@ -5568,6 +5568,22 @@
             {
                 "name": "CLIPFarz",
                 "size": 4
+            },
+            {
+                "name": "_tmp_evbf",
+                "size": 704
+            },
+            {
+                "name": "CLIPHdkx",
+                "size": 4
+            },
+            {
+                "name": "CLIPKdhx",
+                "size": 4
+            },
+            {
+                "name": "CLIPHdky",
+                "size": 4
             }
         ]
     },
