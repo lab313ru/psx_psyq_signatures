@@ -7,6 +7,48 @@
                 "name": "StSetRing",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
+            }
         ]
     },
     {
@@ -1233,6 +1275,48 @@
                 "name": "StClearRing",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
+            }
         ]
     },
     {
@@ -1242,6 +1326,48 @@
             {
                 "name": "StUnSetRing",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
             }
         ]
     },
@@ -1257,6 +1383,48 @@
                 "name": "loc_50",
                 "offset": 80
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
+            }
         ]
     },
     {
@@ -1267,6 +1435,48 @@
                 "name": "StSetStream",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
+            }
         ]
     },
     {
@@ -1276,6 +1486,48 @@
             {
                 "name": "StSetEmulate",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
             }
         ]
     },
@@ -1303,6 +1555,48 @@
                 "name": "text_B0",
                 "offset": 176
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
+            }
         ]
     },
     {
@@ -1320,6 +1614,48 @@
             {
                 "name": "loc_34",
                 "offset": 52
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
             }
         ]
     },
@@ -1343,6 +1679,48 @@
                 "name": "loc_BC",
                 "offset": 188
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
+            }
         ]
     },
     {
@@ -1352,6 +1730,48 @@
             {
                 "name": "StSetMask",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
             }
         ]
     },
@@ -1559,6 +1979,48 @@
                 "name": "text_A98",
                 "offset": 2712
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
+            }
         ]
     },
     {
@@ -1573,6 +2035,48 @@
                 "name": "loc_2C",
                 "offset": 44
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
+            }
         ]
     },
     {
@@ -1586,6 +2090,48 @@
             {
                 "name": "loc_3C",
                 "offset": 60
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
             }
         ]
     }
