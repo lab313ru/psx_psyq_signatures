@@ -295,6 +295,24 @@
                 "name": "text_F84",
                 "offset": 3972
             }
+        ],
+        "xbss": [
+            {
+                "name": "RingAddr",
+                "size": 8
+            },
+            {
+                "name": "RingBase",
+                "size": 8
+            },
+            {
+                "name": "FinalSector",
+                "size": 8
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 8
+            }
         ]
     },
     {
@@ -967,6 +985,10 @@
             },
             {
                 "name": "CD_cbready",
+                "size": 8
+            },
+            {
+                "name": "CD_cbsync",
                 "size": 8
             }
         ]

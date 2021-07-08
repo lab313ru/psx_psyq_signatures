@@ -343,6 +343,36 @@
                 "name": "loc_5F0",
                 "offset": 1520
             }
+        ],
+        "xbss": [
+            {
+                "name": "dec_used",
+                "size": 8
+            },
+            {
+                "name": "dec_pt",
+                "size": 8
+            },
+            {
+                "name": "dc_y",
+                "size": 8
+            },
+            {
+                "name": "dc_type",
+                "size": 8
+            },
+            {
+                "name": "dc_cb",
+                "size": 8
+            },
+            {
+                "name": "bs_curt",
+                "size": 8
+            },
+            {
+                "name": "dc_cr",
+                "size": 8
+            }
         ]
     }
 ]

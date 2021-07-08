@@ -1508,6 +1508,30 @@
             {
                 "name": "GsDSTACK",
                 "size": 1280
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
             }
         ]
     },
@@ -1568,6 +1592,14 @@
             {
                 "name": "GsDISPENV",
                 "size": 24
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
             }
         ]
     },
@@ -1608,6 +1640,22 @@
             {
                 "name": "GsDISPENV",
                 "size": 24
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
             }
         ]
     },
@@ -1660,6 +1708,18 @@
             {
                 "name": "GsDISPENV",
                 "size": 24
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
             }
         ]
     },
@@ -1696,6 +1756,26 @@
             {
                 "name": "GsDISPENV",
                 "size": 24
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
             }
         ]
     },
@@ -1732,6 +1812,26 @@
             {
                 "name": "PSDIDX",
                 "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
             }
         ]
     },
@@ -1764,6 +1864,30 @@
             {
                 "name": "GsDISPENV",
                 "size": 24
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
             }
         ]
     },
@@ -1796,6 +1920,30 @@
             {
                 "name": "GsDISPENV",
                 "size": 24
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
             }
         ]
     },
@@ -1828,6 +1976,30 @@
             {
                 "name": "GsDISPENV",
                 "size": 24
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
             }
         ]
     },
@@ -1936,6 +2108,22 @@
             {
                 "name": "GsDISPENV",
                 "size": 24
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
             }
         ]
     },
@@ -1968,6 +2156,30 @@
             {
                 "name": "GsDISPENV",
                 "size": 24
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
             }
         ]
     },
@@ -2512,6 +2724,30 @@
             {
                 "name": "GsOUT_PACKET_P",
                 "size": 8
+            },
+            {
+                "name": "GsBACKC",
+                "size": 8
+            },
+            {
+                "name": "GsNDIV",
+                "size": 8
+            },
+            {
+                "name": "GsTRATE",
+                "size": 8
+            },
+            {
+                "name": "GsLIGNR",
+                "size": 8
+            },
+            {
+                "name": "GsDISPON",
+                "size": 8
+            },
+            {
+                "name": "GsTON",
+                "size": 8
             }
         ]
     },
@@ -2548,6 +2784,22 @@
             {
                 "name": "GsCLIP3far",
                 "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -2584,6 +2836,22 @@
             {
                 "name": "GsCLIP3near",
                 "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -2632,6 +2900,18 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
             }
         ]
     },
@@ -2660,6 +2940,30 @@
             {
                 "name": "GsCLIP3near",
                 "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -2696,6 +3000,30 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -2728,6 +3056,26 @@
             {
                 "name": "GsCLIP3far",
                 "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -2940,6 +3288,26 @@
             {
                 "name": "HWD0",
                 "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3008,6 +3376,10 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
             }
         ]
     },
@@ -3035,6 +3407,30 @@
             },
             {
                 "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
                 "size": 32
             }
         ]
@@ -3068,6 +3464,26 @@
             {
                 "name": "GsCLIP3far",
                 "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3100,6 +3516,26 @@
             {
                 "name": "GsCLIP3far",
                 "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3132,6 +3568,26 @@
             {
                 "name": "GsCLIP3far",
                 "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3164,6 +3620,26 @@
             {
                 "name": "GsCLIP3far",
                 "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3192,6 +3668,30 @@
             {
                 "name": "VWD0",
                 "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3292,6 +3792,14 @@
             {
                 "name": "_LC",
                 "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3328,6 +3836,22 @@
             {
                 "name": "GsCLIP3near",
                 "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3368,6 +3892,30 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
             }
         ]
     },
@@ -3408,6 +3956,30 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
             }
         ]
     },
@@ -3448,6 +4020,30 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
             }
         ]
     },
@@ -3488,6 +4084,30 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
             }
         ]
     },
@@ -3515,6 +4135,30 @@
             },
             {
                 "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
                 "size": 32
             }
         ]
@@ -3551,6 +4195,30 @@
             },
             {
                 "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
                 "size": 32
             }
         ]
@@ -3596,6 +4264,30 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
             }
         ]
     },
@@ -3628,6 +4320,26 @@
             {
                 "name": "GsCLIP3far",
                 "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3660,6 +4372,26 @@
             {
                 "name": "GsCLIP3far",
                 "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -3728,6 +4460,18 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
             }
         ]
     },
@@ -3768,6 +4512,26 @@
             {
                 "name": "GsIDMATRIX2",
                 "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
             }
         ]
     },

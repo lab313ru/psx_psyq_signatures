@@ -733,6 +733,16 @@
                 "name": "text_E60",
                 "offset": 3680
             }
+        ],
+        "xbss": [
+            {
+                "name": "txyuv",
+                "size": 4096
+            },
+            {
+                "name": "KanjiFont",
+                "size": 208
+            }
         ]
     },
     {
