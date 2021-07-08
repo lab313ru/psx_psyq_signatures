@@ -311,6 +311,12 @@
                 "name": "text_A94",
                 "offset": 2708
             }
+        ],
+        "xbss": [
+            {
+                "name": "siobuf",
+                "size": 268
+            }
         ]
     },
     {
