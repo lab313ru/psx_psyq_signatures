@@ -255,7 +255,7 @@
         "xbss": [
             {
                 "name": "siobuf",
-                "size": 16
+                "size": 268
             }
         ]
     },

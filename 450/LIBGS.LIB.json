@@ -1188,6 +1188,30 @@
             {
                 "name": "GsORGOFSY",
                 "size": 2
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 92
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
             }
         ]
     },
@@ -1473,6 +1497,10 @@
             },
             {
                 "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3far",
                 "size": 4
             }
         ]
@@ -3341,6 +3369,12 @@
                 "name": "loc_11C4",
                 "offset": 4548
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsFCALL5",
+                "size": 304
+            }
         ]
     },
     {
@@ -4710,6 +4744,12 @@
             {
                 "name": "loc_860",
                 "offset": 2144
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsFCALL4",
+                "size": 304
             }
         ]
     },
@@ -10882,6 +10922,30 @@
             },
             {
                 "name": "GsDISPON",
+                "size": 4
+            },
+            {
+                "name": "GsLIOFF",
+                "size": 4
+            },
+            {
+                "name": "GsZOVER",
+                "size": 4
+            },
+            {
+                "name": "GsBACKC",
+                "size": 4
+            },
+            {
+                "name": "GsNDIV",
+                "size": 4
+            },
+            {
+                "name": "GsTRATE",
+                "size": 4
+            },
+            {
+                "name": "GsTON",
                 "size": 4
             }
         ]

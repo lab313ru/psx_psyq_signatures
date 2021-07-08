@@ -2008,6 +2008,10 @@
             {
                 "name": "GD_retry",
                 "size": 4
+            },
+            {
+                "name": "GD_disk_kind",
+                "size": 4
             }
         ]
     },
@@ -2030,6 +2034,12 @@
             {
                 "name": "DsDataCallback",
                 "offset": 60
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GlobalCallback",
+                "size": 12
             }
         ]
     }
