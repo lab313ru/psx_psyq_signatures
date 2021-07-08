@@ -259,6 +259,16 @@
                 "name": "text_BBC",
                 "offset": 3004
             }
+        ],
+        "xbss": [
+            {
+                "name": "SysClearPAD",
+                "size": 4
+            },
+            {
+                "name": "hv",
+                "size": 8
+            }
         ]
     },
     {

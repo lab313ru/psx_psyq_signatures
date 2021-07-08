@@ -1075,6 +1075,48 @@
                 "name": "text_5D0",
                 "offset": 1488
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
+            }
         ]
     },
     {
@@ -1105,6 +1147,44 @@
                 "name": "text_10C",
                 "offset": 268
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
+            }
         ]
     },
     {
@@ -1114,6 +1194,40 @@
             {
                 "name": "GsSetDrawBuffClip",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
             }
         ]
     },
@@ -1141,6 +1255,40 @@
                 "name": "text_E0",
                 "offset": 224
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
+            }
         ]
     },
     {
@@ -1150,6 +1298,40 @@
             {
                 "name": "GsSetClip",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
             }
         ]
     },
@@ -1161,6 +1343,40 @@
                 "name": "GsSetClip2D",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
+            }
         ]
     },
     {
@@ -1170,6 +1386,40 @@
             {
                 "name": "GsInitVcount",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
             }
         ]
     },
@@ -1181,6 +1431,40 @@
                 "name": "GsGetVcount",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
+            }
         ]
     },
     {
@@ -1190,6 +1474,40 @@
             {
                 "name": "GsClearVcount",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
             }
         ]
     },
@@ -1205,6 +1523,40 @@
                 "name": "loc_74",
                 "offset": 116
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
+            }
         ]
     },
     {
@@ -1214,6 +1566,40 @@
             {
                 "name": "GsClearDispArea",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
             }
         ]
     },
@@ -1225,6 +1611,40 @@
                 "name": "GsSetClip2",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
+            }
         ]
     },
     {
@@ -1234,6 +1654,40 @@
             {
                 "name": "GsSetOrign",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
             }
         ]
     },
@@ -1285,6 +1739,12 @@
                 "name": "print_vector",
                 "offset": 948
             }
+        ],
+        "xbss": [
+            {
+                "name": "DSTACK",
+                "size": 128
+            }
         ]
     },
     {
@@ -1295,6 +1755,24 @@
                 "name": "GsSetNearClip",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1304,6 +1782,24 @@
             {
                 "name": "GsSetFarClip",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1323,6 +1819,24 @@
                 "name": "text_80",
                 "offset": 128
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1332,6 +1846,24 @@
             {
                 "name": "GsInit3D",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1351,6 +1883,24 @@
                 "name": "loc_6C",
                 "offset": 108
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1360,6 +1910,24 @@
             {
                 "name": "GsSetProjection",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1479,6 +2047,24 @@
                 "name": "gte_read_lc",
                 "offset": 1348
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1509,6 +2095,24 @@
                 "name": "text_7C",
                 "offset": 124
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1518,6 +2122,24 @@
             {
                 "name": "GsSetFogParam",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1529,6 +2151,24 @@
                 "name": "GsSetAmbient",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1538,6 +2178,24 @@
             {
                 "name": "GsDrawOt",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1549,6 +2207,24 @@
                 "name": "GsDrawOtIO",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1558,6 +2234,24 @@
             {
                 "name": "GsClearOt",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1576,6 +2270,24 @@
             {
                 "name": "loc_64",
                 "offset": 100
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1643,6 +2355,28 @@
                 "name": "text_2B8",
                 "offset": 696
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1652,6 +2386,24 @@
             {
                 "name": "gte_copy_matrix",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1667,6 +2419,24 @@
                 "name": "loc_A0",
                 "offset": 160
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1681,6 +2451,24 @@
                 "name": "loc_A0",
                 "offset": 160
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1694,6 +2482,24 @@
             {
                 "name": "loc_9C",
                 "offset": 156
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1717,6 +2523,24 @@
                 "name": "loc_11C",
                 "offset": 284
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1726,6 +2550,24 @@
             {
                 "name": "gte_init",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1744,6 +2586,24 @@
             {
                 "name": "text_DC",
                 "offset": 220
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1771,6 +2631,24 @@
                 "name": "text_BC",
                 "offset": 188
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1781,6 +2659,24 @@
                 "name": "GsSetWorkBase",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1790,6 +2686,24 @@
             {
                 "name": "GsGetWorkBase",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -1833,6 +2747,24 @@
                 "name": "text_BC",
                 "offset": 188
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -1850,6 +2782,24 @@
             {
                 "name": "text_78",
                 "offset": 120
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 4
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 4
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 4
+            },
+            {
+                "name": "_LC",
+                "size": 32
             }
         ]
     },
@@ -9636,6 +10586,43 @@
             {
                 "name": "text_4D8",
                 "offset": 1240
+            }
+        ]
+    },
+    {
+        "name": "GLOBAL.OBJ",
+        "xbss": [
+            {
+                "name": "GsBACKC",
+                "size": 4
+            },
+            {
+                "name": "GsLIOFF",
+                "size": 4
+            },
+            {
+                "name": "GsLIGNR",
+                "size": 4
+            },
+            {
+                "name": "GsTRATE",
+                "size": 4
+            },
+            {
+                "name": "GsZOVER",
+                "size": 4
+            },
+            {
+                "name": "GsDISPON",
+                "size": 4
+            },
+            {
+                "name": "GsTON",
+                "size": 4
+            },
+            {
+                "name": "GsNDIV",
+                "size": 4
             }
         ]
     }
