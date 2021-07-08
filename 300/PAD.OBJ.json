@@ -1,0 +1,11 @@
+[
+    {
+        "name": "PAD.OBJ",
+        "xbss": [
+            {
+                "name": "PadIdentifier",
+                "size": 4
+            }
+        ]
+    }
+]
