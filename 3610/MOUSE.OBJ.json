@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "name": "MOUSE.OBJ",
+        "xbss": [
+            {
+                "name": "PadIdentifier",
+                "size": 8
+            }
+        ]
+    }
+]
