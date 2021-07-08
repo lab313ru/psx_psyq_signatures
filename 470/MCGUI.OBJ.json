@@ -2488,6 +2488,26 @@
             {
                 "name": "ot",
                 "size": 128
+            },
+            {
+                "name": "Pad",
+                "size": 40
+            },
+            {
+                "name": "sDraw",
+                "size": 5048
+            },
+            {
+                "name": "draw",
+                "size": 184
+            },
+            {
+                "name": "disp",
+                "size": 40
+            },
+            {
+                "name": "gMENU",
+                "size": 720
             }
         ]
     }

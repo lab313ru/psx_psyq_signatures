@@ -1416,6 +1416,14 @@
             {
                 "name": "_r_freep",
                 "size": 4
+            },
+            {
+                "name": "_r_bp",
+                "size": 12
+            },
+            {
+                "name": "_r_p",
+                "size": 12
             }
         ]
     },

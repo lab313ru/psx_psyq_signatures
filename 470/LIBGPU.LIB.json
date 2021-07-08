@@ -565,6 +565,16 @@
                 "name": "text_ED0",
                 "offset": 3792
             }
+        ],
+        "xbss": [
+            {
+                "name": "txyuv",
+                "size": 4096
+            },
+            {
+                "name": "KanjiFont",
+                "size": 208
+            }
         ]
     },
     {

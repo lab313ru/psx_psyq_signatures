@@ -408,6 +408,18 @@
             {
                 "name": "_padGunPosRecv",
                 "size": 4
+            },
+            {
+                "name": "_padGunSavePadPtr",
+                "size": 8
+            },
+            {
+                "name": "_padGunSaveTxBuf",
+                "size": 8
+            },
+            {
+                "name": "_padGunSaveTxLen",
+                "size": 8
             }
         ]
     },
@@ -2114,6 +2126,12 @@
             {
                 "name": "text_1E40",
                 "offset": 7744
+            }
+        ],
+        "xbss": [
+            {
+                "name": "_padRestPeriod",
+                "size": 8
             }
         ]
     },
