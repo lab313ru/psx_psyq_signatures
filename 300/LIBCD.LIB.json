@@ -959,6 +959,16 @@
                 "name": "CD_set_test_parmnum",
                 "offset": 4088
             }
+        ],
+        "xbss": [
+            {
+                "name": "CD_cbread",
+                "size": 8
+            },
+            {
+                "name": "CD_cbready",
+                "size": 8
+            }
         ]
     },
     {

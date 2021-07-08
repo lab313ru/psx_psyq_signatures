@@ -187,6 +187,12 @@
                 "name": "text_CB4",
                 "offset": 3252
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsLSMATRIX",
+                "size": 32
+            }
         ]
     },
     {
@@ -1481,6 +1487,28 @@
                 "name": "GsSortClear",
                 "offset": 1132
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
+            }
         ]
     },
     {
@@ -1503,6 +1531,44 @@
                 "name": "text_94",
                 "offset": 148
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
+            }
         ]
     },
     {
@@ -1512,6 +1578,36 @@
             {
                 "name": "GsSetDrawBuffClip",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
             }
         ]
     },
@@ -1531,6 +1627,40 @@
                 "name": "text_74",
                 "offset": 116
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
+            }
         ]
     },
     {
@@ -1540,6 +1670,32 @@
             {
                 "name": "GsSetClip",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
             }
         ]
     },
@@ -1551,6 +1707,32 @@
                 "name": "GsSetClip2D",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "PSDIDX",
+                "size": 8
+            }
         ]
     },
     {
@@ -1560,6 +1742,28 @@
             {
                 "name": "GsInitVcount",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
             }
         ]
     },
@@ -1571,6 +1775,28 @@
                 "name": "GsGetVcount",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
+            }
         ]
     },
     {
@@ -1580,6 +1806,28 @@
             {
                 "name": "GsClearVcount",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
             }
         ]
     },
@@ -1603,6 +1851,52 @@
                 "name": "loc_90",
                 "offset": 144
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
+            },
+            {
+                "name": "CLIP2",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEX",
+                "size": 8
+            },
+            {
+                "name": "PSDBASEY",
+                "size": 8
+            },
+            {
+                "name": "PSDGPU",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            }
         ]
     },
     {
@@ -1613,6 +1907,36 @@
                 "name": "GsClearDispArea",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "POSITION",
+                "size": 8
+            },
+            {
+                "name": "GsDSTACK",
+                "size": 1280
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
+            }
         ]
     },
     {
@@ -1622,6 +1946,28 @@
             {
                 "name": "GsSetClip2",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "PSDIDX",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 8
+            },
+            {
+                "name": "PSDOFSX",
+                "size": 8
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 96
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 24
             }
         ]
     },
@@ -1828,6 +2174,12 @@
             {
                 "name": "print_vector",
                 "offset": 924
+            }
+        ],
+        "xbss": [
+            {
+                "name": "DSTACK",
+                "size": 128
             }
         ]
     },
@@ -2135,6 +2487,32 @@
                 "name": "gte_texture_gouraud_mat_fog3",
                 "offset": 3648
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsMATE_C",
+                "size": 8
+            },
+            {
+                "name": "GsLMODE",
+                "size": 8
+            },
+            {
+                "name": "GsLIOFF",
+                "size": 8
+            },
+            {
+                "name": "GsZOVER",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHT_FUNC",
+                "size": 8
+            },
+            {
+                "name": "GsOUT_PACKET_P",
+                "size": 8
+            }
         ]
     },
     {
@@ -2145,6 +2523,32 @@
                 "name": "GsSetNearClip",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            }
         ]
     },
     {
@@ -2154,6 +2558,32 @@
             {
                 "name": "GsSetFarClip",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
             }
         ]
     },
@@ -2173,6 +2603,36 @@
                 "name": "text_84",
                 "offset": 132
             }
+        ],
+        "xbss": [
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            }
         ]
     },
     {
@@ -2182,6 +2642,24 @@
             {
                 "name": "GsInit3D",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
             }
         ]
     },
@@ -2201,6 +2679,24 @@
                 "name": "loc_80",
                 "offset": 128
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            }
         ]
     },
     {
@@ -2210,6 +2706,28 @@
             {
                 "name": "GsSetProjection",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
             }
         ]
     },
@@ -2401,6 +2919,28 @@
                 "name": "text_690",
                 "offset": 1680
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            }
         ]
     },
     {
@@ -2431,6 +2971,44 @@
                 "name": "text_78",
                 "offset": 120
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            }
         ]
     },
     {
@@ -2440,6 +3018,24 @@
             {
                 "name": "GsSetFogParam",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -2451,6 +3047,28 @@
                 "name": "GsSetAmbient",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            }
         ]
     },
     {
@@ -2460,6 +3078,28 @@
             {
                 "name": "GsDrawOt",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
             }
         ]
     },
@@ -2471,6 +3111,28 @@
                 "name": "GsDrawOtIO",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            }
         ]
     },
     {
@@ -2481,6 +3143,28 @@
                 "name": "GsClearOt",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            }
         ]
     },
     {
@@ -2490,6 +3174,24 @@
             {
                 "name": "GsSortOt",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
             }
         ]
     },
@@ -2557,6 +3259,40 @@
                 "name": "text_2C4",
                 "offset": 708
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            }
         ]
     },
     {
@@ -2566,6 +3302,32 @@
             {
                 "name": "gte_copy_matrix",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
             }
         ]
     },
@@ -2589,6 +3351,24 @@
                 "name": "loc_B8",
                 "offset": 184
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            }
         ]
     },
     {
@@ -2610,6 +3390,24 @@
             {
                 "name": "loc_B8",
                 "offset": 184
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -2633,6 +3431,24 @@
                 "name": "loc_B4",
                 "offset": 180
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            }
         ]
     },
     {
@@ -2655,6 +3471,24 @@
                 "name": "loc_164",
                 "offset": 356
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            }
         ]
     },
     {
@@ -2664,6 +3498,24 @@
             {
                 "name": "gte_init",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -2682,6 +3534,24 @@
             {
                 "name": "text_F8",
                 "offset": 248
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
@@ -2709,6 +3579,24 @@
                 "name": "text_C4",
                 "offset": 196
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            }
         ]
     },
     {
@@ -2719,6 +3607,28 @@
                 "name": "GsSetWorkBase",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            }
         ]
     },
     {
@@ -2728,6 +3638,28 @@
             {
                 "name": "GsGetWorkBase",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsLIGHT_MODE",
+                "size": 8
+            },
+            {
+                "name": "HWD0",
+                "size": 8
+            },
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
             }
         ]
     },
@@ -2767,6 +3699,36 @@
                 "name": "text_D0",
                 "offset": 208
             }
+        ],
+        "xbss": [
+            {
+                "name": "VWD0",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3far",
+                "size": 8
+            },
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
+            }
         ]
     },
     {
@@ -2784,6 +3746,28 @@
             {
                 "name": "text_7C",
                 "offset": 124
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GsCLIP3near",
+                "size": 8
+            },
+            {
+                "name": "GsLIGHTWSMATRIX",
+                "size": 32
+            },
+            {
+                "name": "_LC",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX",
+                "size": 32
+            },
+            {
+                "name": "GsIDMATRIX2",
+                "size": 32
             }
         ]
     },
