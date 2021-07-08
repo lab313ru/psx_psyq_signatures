@@ -1510,6 +1510,22 @@
             {
                 "name": "_snd_ev_flag",
                 "size": 8
+            },
+            {
+                "name": "_snd_openflag",
+                "size": 8
+            },
+            {
+                "name": "VBLANK_MINUS",
+                "size": 8
+            },
+            {
+                "name": "_SsMarkCallback",
+                "size": 2048
+            },
+            {
+                "name": "_ss_score",
+                "size": 128
             }
         ]
     },
@@ -4148,6 +4164,46 @@
             },
             {
                 "name": "kMaxPrograms",
+                "size": 8
+            },
+            {
+                "name": "spuVmMaxVoice",
+                "size": 8
+            },
+            {
+                "name": "_svm_rattr",
+                "size": 24
+            },
+            {
+                "name": "_svm_vab_used",
+                "size": 16
+            },
+            {
+                "name": "_svm_stereo_mono",
+                "size": 8
+            },
+            {
+                "name": "_svm_vab_count",
+                "size": 8
+            },
+            {
+                "name": "_svm_brr_start_addr",
+                "size": 64
+            },
+            {
+                "name": "_svm_pg",
+                "size": 8
+            },
+            {
+                "name": "_svm_vg",
+                "size": 8
+            },
+            {
+                "name": "_svm_vh",
+                "size": 8
+            },
+            {
+                "name": "_svm_tn",
                 "size": 8
             }
         ]

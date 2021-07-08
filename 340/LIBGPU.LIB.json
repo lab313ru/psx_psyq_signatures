@@ -907,6 +907,12 @@
                 "name": "loc_2C18",
                 "offset": 11288
             }
+        ],
+        "xbss": [
+            {
+                "name": "_que",
+                "size": 6144
+            }
         ]
     },
     {
@@ -1644,6 +1650,10 @@
             {
                 "name": "txyuv",
                 "size": 4096
+            },
+            {
+                "name": "KanjiFont",
+                "size": 208
             }
         ]
     },

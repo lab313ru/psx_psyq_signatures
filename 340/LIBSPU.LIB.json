@@ -2999,6 +2999,12 @@
                 "name": "loc_388",
                 "offset": 904
             }
+        ],
+        "xbss": [
+            {
+                "name": "SpuCommonError",
+                "size": 4
+            }
         ]
     },
     {
