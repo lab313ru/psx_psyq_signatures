@@ -363,6 +363,20 @@
                 "name": "text_250",
                 "offset": 592
             }
+        ],
+        "xbss": [
+            {
+                "name": "cntl",
+                "size": 4
+            },
+            {
+                "name": "mode",
+                "size": 4
+            },
+            {
+                "name": "baud",
+                "size": 4
+            }
         ]
     },
     {

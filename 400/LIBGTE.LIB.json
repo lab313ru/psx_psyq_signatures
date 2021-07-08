@@ -5695,6 +5695,20 @@
                 "name": "loc_D8",
                 "offset": 216
             }
+        ],
+        "xbss": [
+            {
+                "name": "CLIPNearz",
+                "size": 4
+            },
+            {
+                "name": "CLIPKdhy",
+                "size": 4
+            },
+            {
+                "name": "CLIPFarz",
+                "size": 4
+            }
         ]
     },
     {

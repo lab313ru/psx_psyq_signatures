@@ -7,6 +7,48 @@
                 "name": "StSetRing",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "Stframe_no",
+                "size": 4
+            },
+            {
+                "name": "StFinalSector",
+                "size": 4
+            },
+            {
+                "name": "Stsector_offset",
+                "size": 2
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx2",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx3",
+                "size": 4
+            },
+            {
+                "name": "StStartFrame",
+                "size": 4
+            },
+            {
+                "name": "StEndFrame",
+                "size": 4
+            },
+            {
+                "name": "StSTART_FLAG",
+                "size": 4
+            },
+            {
+                "name": "StRingSize",
+                "size": 4
+            }
         ]
     },
     {
@@ -782,6 +824,12 @@
             {
                 "name": "loc_17A8",
                 "offset": 6056
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StMode",
+                "size": 4
             }
         ]
     },

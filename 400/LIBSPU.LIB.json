@@ -275,6 +275,12 @@
                 "name": "text_B74",
                 "offset": 2932
             }
+        ],
+        "xbss": [
+            {
+                "name": "_spu_RQ",
+                "size": 20
+            }
         ]
     },
     {

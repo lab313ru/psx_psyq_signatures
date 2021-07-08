@@ -1155,6 +1155,48 @@
                 "name": "text_5D0",
                 "offset": 1488
             }
+        ],
+        "xbss": [
+            {
+                "name": "PSDOFSX",
+                "size": 4
+            },
+            {
+                "name": "PSDOFSY",
+                "size": 4
+            },
+            {
+                "name": "POSITION",
+                "size": 4
+            },
+            {
+                "name": "PSDIDX",
+                "size": 2
+            },
+            {
+                "name": "PSDCNT",
+                "size": 4
+            },
+            {
+                "name": "GsDRAWENV",
+                "size": 5
+            },
+            {
+                "name": "GsDISPENV",
+                "size": 20
+            },
+            {
+                "name": "PSDGPU",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSX",
+                "size": 2
+            },
+            {
+                "name": "GsORGOFSY",
+                "size": 2
+            }
         ]
     },
     {
@@ -1364,6 +1406,12 @@
             {
                 "name": "print_vector",
                 "offset": 948
+            }
+        ],
+        "xbss": [
+            {
+                "name": "DSTACK",
+                "size": 128
             }
         ]
     },
@@ -13356,6 +13404,43 @@
             {
                 "name": "loc_E0",
                 "offset": 224
+            }
+        ]
+    },
+    {
+        "name": "GLOBAL.OBJ",
+        "xbss": [
+            {
+                "name": "GsBACKC",
+                "size": 4
+            },
+            {
+                "name": "GsLIOFF",
+                "size": 4
+            },
+            {
+                "name": "GsLIGNR",
+                "size": 4
+            },
+            {
+                "name": "GsTRATE",
+                "size": 4
+            },
+            {
+                "name": "GsZOVER",
+                "size": 4
+            },
+            {
+                "name": "GsDISPON",
+                "size": 4
+            },
+            {
+                "name": "GsTON",
+                "size": 4
+            },
+            {
+                "name": "GsNDIV",
+                "size": 4
             }
         ]
     }
