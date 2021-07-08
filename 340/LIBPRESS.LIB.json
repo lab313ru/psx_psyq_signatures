@@ -417,6 +417,20 @@
                 "name": "loc_5E8",
                 "offset": 1512
             }
+        ],
+        "xbss": [
+            {
+                "name": "dec_used",
+                "size": 4
+            },
+            {
+                "name": "dec_pt",
+                "size": 4
+            },
+            {
+                "name": "bs_curt",
+                "size": 4
+            }
         ]
     },
     {

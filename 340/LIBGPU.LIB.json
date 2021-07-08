@@ -1639,6 +1639,12 @@
                 "name": "text_E24",
                 "offset": 3620
             }
+        ],
+        "xbss": [
+            {
+                "name": "txyuv",
+                "size": 4096
+            }
         ]
     },
     {
