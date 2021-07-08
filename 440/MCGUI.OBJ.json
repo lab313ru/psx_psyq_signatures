@@ -1871,6 +1871,24 @@
                 "name": "loc_686C",
                 "offset": 26732
             }
+        ],
+        "xbss": [
+            {
+                "name": "sUser",
+                "size": 16
+            },
+            {
+                "name": "sDraw",
+                "size": 19
+            },
+            {
+                "name": "disp",
+                "size": 40
+            },
+            {
+                "name": "gMENU",
+                "size": 2
+            }
         ]
     }
 ]
