@@ -1329,6 +1329,48 @@
                 "name": "text_494",
                 "offset": 1172
             }
+        ],
+        "xbss": [
+            {
+                "name": "_mcxFuncNo",
+                "size": 4
+            },
+            {
+                "name": "_mcxRestSize",
+                "size": 4
+            },
+            {
+                "name": "_mcxFuncApplyRx",
+                "size": 4
+            },
+            {
+                "name": "_mcxDataLen",
+                "size": 4
+            },
+            {
+                "name": "_mcxPtrBuff",
+                "size": 4
+            },
+            {
+                "name": "_mcxSum",
+                "size": 1
+            },
+            {
+                "name": "_mcxPtrCmdBuf0",
+                "size": 4
+            },
+            {
+                "name": "_mcxPtrCmdBuf1",
+                "size": 4
+            },
+            {
+                "name": "_mcxParam",
+                "size": 4
+            },
+            {
+                "name": "_mcxFlag",
+                "size": 4
+            }
         ]
     },
     {

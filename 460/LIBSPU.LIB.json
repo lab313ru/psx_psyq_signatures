@@ -275,6 +275,12 @@
                 "name": "text_B18",
                 "offset": 2840
             }
+        ],
+        "xbss": [
+            {
+                "name": "_spu_RQ",
+                "size": 20
+            }
         ]
     },
     {
@@ -5736,6 +5742,15 @@
             {
                 "name": "loc_350",
                 "offset": 848
+            }
+        ]
+    },
+    {
+        "name": "S_SCERR.OBJ",
+        "xbss": [
+            {
+                "name": "SpuCommonError",
+                "size": 4
             }
         ]
     }

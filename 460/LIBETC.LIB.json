@@ -11,6 +11,12 @@
                 "name": "PadRead",
                 "offset": 76
             }
+        ],
+        "xbss": [
+            {
+                "name": "PadIdentifier",
+                "size": 4
+            }
         ]
     },
     {

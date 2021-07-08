@@ -2459,6 +2459,20 @@
                 "name": "loc_7DF0",
                 "offset": 32240
             }
+        ],
+        "xbss": [
+            {
+                "name": "sUser",
+                "size": 32
+            },
+            {
+                "name": "sDraw",
+                "size": 19
+            },
+            {
+                "name": "disp",
+                "size": 40
+            }
         ]
     }
 ]
