@@ -623,6 +623,16 @@
                 "name": "text_ED0",
                 "offset": 3792
             }
+        ],
+        "xbss": [
+            {
+                "name": "txyuv",
+                "size": 4096
+            },
+            {
+                "name": "KanjiFont",
+                "size": 208
+            }
         ]
     },
     {
@@ -1861,6 +1871,12 @@
                 "name": "loc_3000",
                 "offset": 12288
             }
+        ],
+        "xbss": [
+            {
+                "name": "_que",
+                "size": 6144
+            }
         ]
     },
     {
@@ -2378,6 +2394,12 @@
             {
                 "name": "text_200",
                 "offset": 512
+            }
+        ],
+        "xbss": [
+            {
+                "name": "_CntDrEnv",
+                "size": 12
             }
         ]
     },

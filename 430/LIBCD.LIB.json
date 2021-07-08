@@ -56,6 +56,30 @@
             {
                 "name": "StCHANNEL",
                 "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StRingIdx1",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -1611,6 +1635,10 @@
         "xbss": [
             {
                 "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
                 "size": 4
             }
         ]
