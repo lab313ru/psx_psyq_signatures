@@ -1879,7 +1879,7 @@
             },
             {
                 "name": "sDraw",
-                "size": 19
+                "size": 5036
             },
             {
                 "name": "disp",
@@ -1887,7 +1887,23 @@
             },
             {
                 "name": "gMENU",
-                "size": 2
+                "size": 720
+            },
+            {
+                "name": "Pad",
+                "size": 40
+            },
+            {
+                "name": "side",
+                "size": 4
+            },
+            {
+                "name": "ot",
+                "size": 128
+            },
+            {
+                "name": "draw",
+                "size": 184
             }
         ]
     }
