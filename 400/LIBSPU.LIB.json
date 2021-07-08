@@ -2441,6 +2441,12 @@
                 "name": "loc_388",
                 "offset": 904
             }
+        ],
+        "xbss": [
+            {
+                "name": "SpuCommonError",
+                "size": 4
+            }
         ]
     },
     {
@@ -4221,6 +4227,12 @@
                 "name": "SpuSetCommonMasterVolume",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "SpuCommonError",
+                "size": 4
+            }
         ]
     },
     {
@@ -4311,6 +4323,12 @@
                 "name": "text_144",
                 "offset": 324
             }
+        ],
+        "xbss": [
+            {
+                "name": "SpuCommonError",
+                "size": 4
+            }
         ]
     },
     {
@@ -4320,6 +4338,12 @@
             {
                 "name": "SpuSetCommonCDVolume",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "SpuCommonError",
+                "size": 4
             }
         ]
     },
@@ -4339,6 +4363,12 @@
                 "name": "text_38",
                 "offset": 56
             }
+        ],
+        "xbss": [
+            {
+                "name": "SpuCommonError",
+                "size": 4
+            }
         ]
     },
     {
@@ -4356,6 +4386,12 @@
             {
                 "name": "text_38",
                 "offset": 56
+            }
+        ],
+        "xbss": [
+            {
+                "name": "SpuCommonError",
+                "size": 4
             }
         ]
     },

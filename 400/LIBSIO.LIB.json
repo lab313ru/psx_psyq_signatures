@@ -251,6 +251,12 @@
                 "name": "text_934",
                 "offset": 2356
             }
+        ],
+        "xbss": [
+            {
+                "name": "siobuf",
+                "size": 268
+            }
         ]
     },
     {

@@ -48,6 +48,46 @@
             {
                 "name": "StRingSize",
                 "size": 4
+            },
+            {
+                "name": "StRgb24",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Idx",
+                "size": 4
+            },
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StCdIntrFlag",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            },
+            {
+                "name": "StCHANNEL",
+                "size": 4
+            },
+            {
+                "name": "StEmu_Addr",
+                "size": 4
+            },
+            {
+                "name": "StRingAddr",
+                "size": 4
+            },
+            {
+                "name": "StRingBase",
+                "size": 4
+            },
+            {
+                "name": "CChannel",
+                "size": 4
             }
         ]
     },
@@ -1465,6 +1505,16 @@
                 "name": "StClearRing",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            }
         ]
     },
     {
@@ -1482,6 +1532,16 @@
             {
                 "name": "text_4C",
                 "offset": 76
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
             }
         ]
     },
@@ -1509,6 +1569,16 @@
                 "name": "text_DC",
                 "offset": 220
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            }
         ]
     },
     {
@@ -1519,6 +1589,16 @@
                 "name": "StSetStream",
                 "offset": 0
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            }
         ]
     },
     {
@@ -1528,6 +1608,16 @@
             {
                 "name": "StSetEmulate",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
             }
         ]
     },
@@ -1555,6 +1645,16 @@
                 "name": "text_AC",
                 "offset": 172
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            }
         ]
     },
     {
@@ -1572,6 +1672,16 @@
             {
                 "name": "loc_30",
                 "offset": 48
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
             }
         ]
     },
@@ -1595,6 +1705,16 @@
                 "name": "loc_BC",
                 "offset": 188
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            }
         ]
     },
     {
@@ -1604,6 +1724,16 @@
             {
                 "name": "StSetMask",
                 "offset": 0
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
             }
         ]
     },
@@ -1819,6 +1949,16 @@
                 "name": "loc_B28",
                 "offset": 2856
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            }
         ]
     },
     {
@@ -1833,6 +1973,16 @@
                 "name": "loc_2C",
                 "offset": 44
             }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
+            }
         ]
     },
     {
@@ -1846,6 +1996,16 @@
             {
                 "name": "loc_3C",
                 "offset": 60
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
             }
         ]
     },
@@ -1864,6 +2024,16 @@
             {
                 "name": "loc_60",
                 "offset": 96
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
             }
         ]
     },
@@ -1890,6 +2060,16 @@
             {
                 "name": "text_B4",
                 "offset": 180
+            }
+        ],
+        "xbss": [
+            {
+                "name": "StFunc1",
+                "size": 4
+            },
+            {
+                "name": "StFunc2",
+                "size": 4
             }
         ]
     }
