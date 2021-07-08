@@ -1863,6 +1863,12 @@
                 "name": "text_178",
                 "offset": 376
             }
+        ],
+        "xbss": [
+            {
+                "name": "GD_disk_kind",
+                "size": 4
+            }
         ]
     },
     {
@@ -1884,6 +1890,12 @@
             {
                 "name": "DsDataCallback",
                 "offset": 60
+            }
+        ],
+        "xbss": [
+            {
+                "name": "GlobalCallback",
+                "size": 12
             }
         ]
     }

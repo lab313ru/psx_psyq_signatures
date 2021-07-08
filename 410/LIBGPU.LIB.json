@@ -615,6 +615,16 @@
                 "name": "text_E78",
                 "offset": 3704
             }
+        ],
+        "xbss": [
+            {
+                "name": "txyuv",
+                "size": 4096
+            },
+            {
+                "name": "KanjiFont",
+                "size": 208
+            }
         ]
     },
     {
@@ -2582,6 +2592,12 @@
             {
                 "name": "text_1F4",
                 "offset": 500
+            }
+        ],
+        "xbss": [
+            {
+                "name": "_CntDrEnv",
+                "size": 12
             }
         ]
     }
